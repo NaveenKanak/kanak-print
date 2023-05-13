@@ -1,0 +1,22 @@
+{
+  "name": "kanak-print",
+  "version": "1.0.0",
+  "description": "Printing to console",
+  "main": "index.js",
+  "scripts": {
+    "test": "kanak"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaveenKanak/kanak-print.git"
+  },
+  "keywords": [
+    "kan"
+  ],
+  "author": "Naveen.kanak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaveenKanak/kanak-print/issues"
+  },
+  "homepage": "https://github.com/NaveenKanak/kanak-print#readme"
+}
